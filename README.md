@@ -1,16 +1,16 @@
-#Ramanan Balu - Portfolio Website
+Ramanan Balu - Portfolio Website
 This repository contains the source code for my personal portfolio website. The website highlights my projects, skills, and experiences as a Full Stack Developer, providing an interactive way to explore my work and learn more about my professional background.
 
-Table of Contents
-Overview
-Features
-Technologies Used
-Setup Instructions
-Screenshots
-Contributing
-License
-Contact
-Overview
+**Table of Contents**
+        Overview
+        Features
+        Technologies Used
+        Setup Instructions
+        Screenshots
+        Contributing
+        License
+        Contact
+        Overview
 This portfolio website is a fully responsive, cleanly designed webpage to showcase my development projects, technical skills, and contact information. The website is built using HTML, CSS, JavaScript, and Bootstrap, ensuring a modern design and a user-friendly interface.
 
 Live Demo: [Link to live site]
